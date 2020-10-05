@@ -1,0 +1,41 @@
+.modal {
+    background: gray;
+    height: 300px;
+    width: 600px;
+    text-align: center;
+    font-size: 30px;
+    display: none;
+    position: absolute;
+    top: 100px;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.block {
+    display: block;
+}
+
+.modalButton {
+    padding: 10px 25px;
+    font-size: 22px;
+    display: block;
+    margin: auto;
+}
+
+.modalDiv {
+    margin: 0 auto;
+    width: 600px;
+    height: 600px;
+    background-color: lightgray;
+    text-align: right;
+}
+
+.textP {
+    text-align: center;
+    margin: 100px 0 0 0;
+    font-size: 30px;
+}
+
+.modalButoon2 {
+    margin: 50px 50px 0 0;
+}
